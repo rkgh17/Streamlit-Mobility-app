@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 
-#기본 형식
 import streamlit as st
+import sys
+sys.path.insert(1, "C:\Users\h\Desktop\ToyProject\Streamlit-Mobility-app\venv\Lib\site-packages\streamlit_option_menu")
 from streamlit_option_menu import option_menu
 from pathlib import Path
 
