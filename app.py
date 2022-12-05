@@ -16,7 +16,7 @@ def main():
         "container": {"padding": "0!important", "background-color": "#fafafa"},
         "icon": {"color": "gray", "font-size": "25px"}, 
         "nav-link": {"font-size": "20px", "text-align": "left", "margin":"0px", "--hover-color": "#B8FFAA"},
-        "nav-link-selected": {"font-size":"20px","background-color": "PaleGreen", "color":"black"},
+        "nav-link-selected": {"font-size":"20px","background-color": "PaleGreen", "color":"black"}
         })
         # print(selected)
     
